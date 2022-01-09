@@ -1,2 +1,7 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # rtools
-misc R functions
+
+<!-- badges: start -->
+<!-- badges: end -->
