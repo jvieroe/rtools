@@ -2,15 +2,15 @@
 % Please edit documentation in R/get_hex.R
 \name{get_hex}
 \alias{get_hex}
-\title{Format axis labels}
+\title{Extract HEX code by RGB}
 \usage{
 get_hex(x, y)
 }
 \arguments{
-\item{x}{...}
+\item{x}{RGB codes in a \code{character} vector of length 1 (per color)}
 }
 \description{
-This function formats the labels on your \code{ggplot2} axis labels
+This function extracts HEX codes from RGB codes
 }
 \examples{
 x <- c("14 17 22")
